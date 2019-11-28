@@ -1,0 +1,3 @@
+version[1.4]version
+UpdateUrl[www.baidu.com]UpdateUrl
+UpdatePrompt[检测到重要的版本更新,请立刻访问更新地址进行下载使用,您的使用授权不会因此而丢失,请勿删除原软件目录下的文件,只需用新的主程序替换当前的主程序即可.]UpdatePrompt
